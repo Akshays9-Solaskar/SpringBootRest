@@ -10,6 +10,7 @@ public class WelcomeController {
 	@GetMapping("/message")
 	public String getMessage() {
 		int a=10;
+		int b=20;
 		try{
 		}
 		catch(Exception e){
